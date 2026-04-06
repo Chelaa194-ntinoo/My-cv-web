@@ -42,18 +42,18 @@ a:hover {
 
 br + a {
   display: block;
-  margin: 5px 0;
+  margin: 3px 0;
 }
 marquee, marquee font {
   display: block;
   font-size: 50px !important;
   color: #0077cc !important;
   text-align: center;
-  margin: 20px 0;
+  margin: 16px 0;
 }
 center font {
   color: green;
   font-weight: bold;
-  margin-top: 20px;
+  margin-top: 16px;
   display: block;
 }
